@@ -11,7 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/bettarelloiago/star-wars-api.git"
   },
-  "author": "Iago Bettarello",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bettarelloiago/star-wars-api/issues"
